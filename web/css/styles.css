@@ -209,6 +209,38 @@
     z-index: 1;
     border-radius: 50px 50px;
   }
+
+  .contact-img1 {
+    position: absolute;
+    left: 17%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img2 {
+    position: absolute;
+    left: 58%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img3 {
+    position: absolute;
+    left: 17%;
+    top: 225;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img4 {
+    position: absolute;
+    left: 58%;
+    top: 225;
+    width: 25%;
+    z-index: 1;
+  }
 }
 
 /* SMALL SCREENS ONLY */
@@ -421,6 +453,38 @@
     width: 35%;
     z-index: 1;
     border-radius: 50px 50px;
+  }
+
+  .contact-img1 {
+    position: absolute;
+    left: 17%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img2 {
+    position: absolute;
+    left: 58%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img3 {
+    position: absolute;
+    left: 17%;
+    top: 300;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img4 {
+    position: absolute;
+    left: 58%;
+    top: 300;
+    width: 25%;
+    z-index: 1;
   }
 }
 
@@ -635,6 +699,38 @@
     z-index: 1;
     border-radius: 50px 50px;
   }
+
+  .contact-img1 {
+    position: absolute;
+    left: 17%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img2 {
+    position: absolute;
+    left: 58%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img3 {
+    position: absolute;
+    left: 17%;
+    top: 300;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img4 {
+    position: absolute;
+    left: 58%;
+    top: 300;
+    width: 25%;
+    z-index: 1;
+  }
 }
 
 /* LARGE SCREENS ONLY */
@@ -848,5 +944,37 @@
     width: 25%;
     z-index: 1;
     border-radius: 50px 50px;
+  }
+
+  .contact-img1 {
+    position: absolute;
+    left: 17%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img2 {
+    position: absolute;
+    left: 62%;
+    top: 50;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img3 {
+    position: absolute;
+    left: 17%;
+    top: 400;
+    width: 25%;
+    z-index: 1;
+  }
+
+  .contact-img4 {
+    position: absolute;
+    left: 62%;
+    top: 400;
+    width: 25%;
+    z-index: 1;
   }
 }
