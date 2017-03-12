@@ -182,6 +182,33 @@
     font-size: 155%;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
   }
+
+  .about-description {
+    position: absolute;
+    left: 12%;
+    top: 200;
+    width: 75%;
+    z-index: 1;
+    /*line-height: 300px;*/
+    text-align: center;
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Julius Sans One', sans-serif;
+    letter-spacing: .4em;
+    font-size: 125%;
+    text-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #profile-pic {
+    position: absolute;
+    left: 17%;
+    top: 300;
+    width: 65%;
+    z-index: 1;
+    border-radius: 50px 50px;
+  }
 }
 
 /* SMALL SCREENS ONLY */
@@ -367,6 +394,33 @@
     letter-spacing: .4em;
     font-size: 300%;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  .about-description {
+    position: absolute;
+    left: 25%;
+    top: 225;
+    width: 50%;
+    z-index: 1;
+    /*line-height: 300px;*/
+    text-align: center;
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Julius Sans One', sans-serif;
+    letter-spacing: .4em;
+    font-size: 125%;
+    text-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #profile-pic {
+    position: absolute;
+    left: 31%;
+    top: 275;
+    width: 35%;
+    z-index: 1;
+    border-radius: 50px 50px;
   }
 }
 
@@ -554,6 +608,33 @@
     font-size: 330%;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
   }
+
+  .about-description {
+    position: absolute;
+    left: 25%;
+    top: 225;
+    width: 50%;
+    z-index: 1;
+    /*line-height: 300px;*/
+    text-align: center;
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Julius Sans One', sans-serif;
+    letter-spacing: .4em;
+    font-size: 125%;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #profile-pic {
+    position: absolute;
+    left: 31%;
+    top: 250;
+    width: 35%;
+    z-index: 1;
+    border-radius: 50px 50px;
+  }
 }
 
 /* LARGE SCREENS ONLY */
@@ -740,5 +821,32 @@
     font-size: 430%;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
     text-indent: .3em;
+  }
+
+  .about-description {
+    position: absolute;
+    left: 25%;
+    top: 225;
+    width: 50%;
+    z-index: 1;
+    /*line-height: 300px;*/
+    text-align: center;
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Julius Sans One', sans-serif;
+    letter-spacing: .4em;
+    font-size: 125%;
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #profile-pic {
+    position: absolute;
+    left: 37%;
+    top: 250;
+    width: 25%;
+    z-index: 1;
+    border-radius: 50px 50px;
   }
 }
